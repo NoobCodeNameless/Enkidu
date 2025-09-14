@@ -22,6 +22,7 @@ Dependencies:
 
 ## 📂 Project Structure
 
+```csharp
 Enkidu/                   
 ├── core/                         # Core implementation    
 │   ├── __init__.py    
@@ -34,7 +35,7 @@ Enkidu/
 ├── test_enkidu.py                # Example usage (Python API)                
 ├── cli_enkidu.py                 # Command-line interface                     
 └── README.md                    
-
+```
 
 
 ## 🚀 Usage
