@@ -22,18 +22,19 @@ Dependencies:
 
 ## 📂 Project Structure
 
-Enkidu/
-├── core/                         # Core implementation
-│   ├── __init__.py
-│   └── enkidu.py                 # Main Enkidu model
-│
-├── wavdataset/                   # Dataset utilities
-│   ├── __init__.py
-│   └── waveform_privacy_dataset.py
-│
-├── test_enkidu.py                # Example usage (Python API)
-├── cli_enkidu.py                 # Command-line interface
-└── README.md
+Enkidu/                   
+├── core/                         # Core implementation    
+│   ├── __init__.py    
+│   └── enkidu.py                 # Main Enkidu model     
+│       
+├── wavdataset/                   # Dataset utilities      
+│   ├── __init__.py              
+│   └── waveform_privacy_dataset.py                
+│                    
+├── test_enkidu.py                # Example usage (Python API)                
+├── cli_enkidu.py                 # Command-line interface                     
+└── README.md                    
+
 
 
 ## 🚀 Usage
